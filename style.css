@@ -1,0 +1,29 @@
+.navbar {
+  position: sticky;
+  background-color: black;
+  color: red;
+  height: 80px;
+  padding: 0 20px;
+}
+
+a{
+  color: blue;
+}
+img{
+  border: 2px solid green;
+  height: 200px;
+  width: 300px;
+  display: flex;
+  justify-content: right;
+}
+
+
+.text1, .text2, .text3{
+  justify-content: left;
+  width: 600px;
+
+}
+p{
+  display: flex;
+  align-content: left;
+}
